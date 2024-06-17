@@ -12,6 +12,9 @@
 
 A Python package for exporting [Slidev](https://github.com/slidevjs/slidev) slides to PPTX.
 
+> [!NOTE]
+> This project is archived as Slidev has now officially supported exporting to PPTX ([reference](https://github.com/slidevjs/slidev/pull/1603)).
+
 ## Installation
 
 ```sh
